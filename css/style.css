@@ -1,3 +1,4 @@
+/* header section design start */
 .web-header{
     background: #FFFBF0;
 }
@@ -8,3 +9,52 @@
     color: #3C3C3C;
     font-weight: 600;
 }
+.welcome-img{
+    width: 80%;
+}
+.welcome-btn{
+    background: #A4BC46;
+    border-radius: 10px;
+}
+.wel-heading-1{
+    font-size: 60px;
+    color: #FABE4C;
+}
+.wel-heading-2{
+    font-size: 60px;
+    color: #363958;
+}
+.wel-para{
+    color: #3E3E3E;
+}
+/* header section design end here */
+/* categories section design start here */
+.catagory-header {
+    color: #363958;
+}
+.img-background img {
+    width: 90%;
+    height: 300px;
+    margin: auto;
+}
+.img-background {
+    background-color: #F1F1F1;
+    text-align: center;
+    border-radius: 25px;
+}
+.catagory h5{
+    color: #363958;
+}
+.catagory-btn{
+    background: #A4BC46;
+    border-radius: 10px;
+}
+.catagory-body{
+    border-radius: 25px;
+    border: none;
+}
+.catagory-footer h3{
+    color: #FABE4C;
+    font-size: 40px;
+}
+/* categories section design end here */
