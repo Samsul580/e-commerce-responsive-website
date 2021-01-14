@@ -58,3 +58,19 @@
     font-size: 40px;
 }
 /* categories section design end here */
+/* overview design staet */
+.overview-box{
+    border-radius: 25px;
+}
+/* overview design end */
+/* contact area start */
+.contact-area{
+    background-color: #F1F1F1;
+}
+.contact-area h2 {
+    color: #FABE4C;
+}
+.contact-area h5{
+    color: #363958;
+}
+/* contact area end */
